@@ -2,7 +2,13 @@
  * @author Xinzhe Yuan ON 2/10/2023.
  * @project INFO5100-Exercise0
  **/
+/*
+1st Class with a sub-class
+ */
 class Laptop{
+    /*
+    8 Properties of the class
+     */
     private String brand;
     private int weight;
     private int length;
@@ -13,44 +19,60 @@ class Laptop{
     private int ramCapacity;
     private int screenSize;
     private String color;
-
+    /*
+    Constructors
+     */
     public Laptop() {
         System.out.println("A laptop has been created. ");
     }
-
     public Laptop(String brand) {
         this.brand = brand;
         System.out.println("A "+this.brand+" laptop has been created. ");
     }
-
+    /*
+    4 methods of the Laptop class
+     */
     public void powerOn() {
     }
     public void shutDown(){
-
     }
-
     public String getBrand() {
         return brand;
     }
 
     public void sleep(){}
+
+    /*
+    A sub-class of Laptop
+     */
     public class Battery{
+        /*
+        4 Properties
+         */
         private String serialNumber;
-        private int powerLife;
+        private int powerLife; // Remaining hours it can support
         private boolean isCharging;
-        private String fitLaptopBrand;
+        private String fitLaptopBrand; // Which brand of laptop it can fit in
 
         public Battery(String fitLaptopBrand ) {
             System.out.println("A battery has been created. It has been installed in the "+fitLaptopBrand+" laptop.");
         }
-
+    /*
+    3 methods of the Battery Class
+     */
         public void setCharging(){}
         public void supplyPower(){}
-        public void cutoffCharging(){}
+        public void cutoffCharging(){} //Prvent over-charging
     }
 
 }
+    /*
+    2nd Class
+     */
 class Desk{
+    /*
+    10 Properties
+     */
     private int id;
     private int numLegs;
     private int length;
@@ -61,20 +83,28 @@ class Desk{
     private String materialOfSurfacePanel;
     private String  materialOfLegs;
     private boolean hasWheels;
-
+    /*
+    Constructor
+     */
     public Desk(int id) {
         this.id = id;
         System.out.println("A Desk with ID "+this.id+" has been created. ");
     }
-
+    /*
+    3 methods
+     */
     public void occupy(){}
     public void move(){}
     public void adjustHeight(){}
 
-
-
 }
+/*
+3rd Class
+ */
 class Student{
+    /*
+    9 Properties
+     */
     private String name;
     private int height;
     private int weight;
@@ -84,18 +114,28 @@ class Student{
     private String eyesColor;
     private String diet;
     private boolean disability;
-
+    /*
+       Constructor
+        */
     public Student(String name) {
         this.name = name;
         System.out.println("A student named "+name+" has been created. ");
     }
-
+    /*
+       3  methods
+         */
     public void walk(){}
     public void sit(){}
     public void standUp(){}
 
 }
+/*
+4th Class
+ */
 class Chair{
+    /*
+    10 Properties
+     */
     private int id;
     private int numLegs;
     private int length;
@@ -106,19 +146,27 @@ class Chair{
     private String materialOfPanel;
     private String  materialOfLegs;
     private boolean hasWheels;
-
+    /*
+           Constructor
+            */
     public Chair(int id) {
         this.id = id;
         System.out.println("A chair with ID "+id+" has been created. ");
     }
-
+    /*
+         3  methods
+           */
     public void sitOn(){}
     public void move(){}
     public void adjustHeight(){}
-
-
 }
+/*
+5th Class
+ */
 class WaterBottle{
+    /*
+    9 Properties
+     */
     private String color;
     private int length;
     private int depth;
@@ -126,46 +174,59 @@ class WaterBottle{
     private int height;
     private int radiusOfBody;
     private int volume;
-
     private String materialOfLid;
     private String  materialOfBody;
-
+    /*
+    Constructor
+     */
     public WaterBottle(String color) {
         this.color = color;
         System.out.println("A "+this.color+" water bottle has been created.");
     }
-
+    ç
     public void drink(){}
     public void refill(){}
     public void recycle(){}
 
 }
+/*
+6th Class
+ */
 class Camera{
+    /*
+    10 Properties
+     */
     private String brand;
     private int id;
     private int sizeOfCCD;
     private int length;
     private int width;
     private int depth;
-
-    private boolean POE;
+    private boolean POE;//Power over ethernet
     private boolean nightVisionAbility;
     private boolean isColour;
-    private boolean streamingAbility;
-
+    private boolean streamingAbility;//Live streaming
+    /*
+        Constructor
+         */
     public Camera(int id) {
         this.id = id;
         System.out.println("A camera has been created. Its ID is "+this.id+".");
     }
-
+    /*
+        3 methods
+         */
     public void capture(){}
     public void recode(){}
     public void shutDown(){}
-
-
-
 }
+/*
+7th Class
+ */
 class DisplayScreen{
+    /*
+    9 Properties
+     */
     private String brand;
     private int id;
     private int screenSize;
@@ -175,56 +236,78 @@ class DisplayScreen{
     private int depth;
     private boolean hasHdmi;
     private boolean isColor;
-
+    /*
+    Constructors
+     */
     public DisplayScreen( int id) {
         this.id = id;
         System.out.println("A display screen has been created. Its ID is "+this.id+".");
     }
-
+    /*
+       3 methods
+         */
     public void turnOn(){}
     public void shutDown(){}
     public void display(){}
-
-
-
 }
+/*
+8th Class
+ */
 class Light{
+    /*
+    9 Properties
+     */
     private String brand;
     private int id;
-    private int maxLux;
+    private int maxLux;// maximum Luxof the light
     private  int radiusOfBubble;
     private int length;
     private  int width;
     private int height;
-    private  int colorTemp;
+    private  int colorTemp;// Color tempture of the lights
     private int weight;
 
+      /*
+    Constructors
+     */
     public Light(int id) {
         this.id = id;
         System.out.println("A light has been created. Its ID is "+this.id+".");
     }
-
+    /*
+      3 methods
+        */
     public void light(){}
     public void dim(){}
     public void changeColor(){}
 
 }
+/*
+9th Class
+ */
 class Mic{
+    /*
+    9 properties
+     */
     private String brand;
     private int id;
-    private String shapeOfHead;
+    private String shapeOfHead;// Shape of the head of the mic
     private int length;
     private int width;
     private int height;
     private int weight;
-    private int powerLife;
-    private boolean hasUSB;
-
+    private int powerLife;// power life of the mic
+    private boolean hasUSB;// does it have usb port or not
+    /*
+       Constructors
+        */
     public Mic(int id) {
         this.id = id;
         System.out.println("A mic has been created. Its ID is "+this.id+".");
     }
-
+    /*
+          4 methods
+        */
     public void mute(){}
     public void adjustVolume(){}
     public void turnOn(){}
@@ -233,7 +316,13 @@ class Mic{
 
 
 }
+/*
+10th Class with a sub-class
+ */
 class Cellphone{
+    /*
+    8 properties
+     */
     private Long IMEI;
     private String brand;
     private int weight;
@@ -242,41 +331,52 @@ class Cellphone{
     private int height;
     private String color;
     private int screenSize;
-
+    /*
+       Constructors
+      */
     public Cellphone(Long IMEI, String brand) {
         this.IMEI = IMEI;
         this.brand = brand;
         System.out.println("A "+this.brand+" cellphone has been created. Its IMEI is "+this.IMEI+".");
     }
-
+    /*
+      4 methods
+     */
     public void call(){}
     public void message(){}
     public void takePhoto(){}
-
     public String getBrand() {
         return brand;
     }
-
+    /*
+    A sub-class
+     */
     public class SimCard{
+        /*
+        2 properties
+         */
         private String carrierName;
         private String phoneNumber;
-
+        /*
+          Constructors
+         */
         public SimCard(String phoneNumber) {
             this.phoneNumber = phoneNumber;
             System.out.println("A sim card has been created. Its phone number is "+this.phoneNumber+".");
-
         }
-
+        /*
+           3 methods
+          */
         public void activate(){}
         public void deactivate(){}
-
         public void install(String CellphoneBrand){
             System.out.println("This SIM card has been installed in the "+CellphoneBrand+" Cellphone.");
         }
     }
-
 }
-
+/*
+The main method to instance objects
+ */
 public class Main {
 
     public static void main(String[] args) {
@@ -343,8 +443,6 @@ public class Main {
         Cellphone.SimCard simCard3 = cellphone1.new SimCard("234-567-789");
         simCard2.install(cellphone3.getBrand());
         System.out.println();
-
-
 
     }
 }
