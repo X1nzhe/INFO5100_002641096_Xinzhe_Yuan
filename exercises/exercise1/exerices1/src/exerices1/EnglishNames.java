@@ -4,7 +4,8 @@
  **/
 package exerices1;
 class EnglishNames {
-    static String[] nameList = {"Noah",
+    static String[] nameList = {
+            "Noah",
             "Oliver",
             "George",
             "Arthur",
@@ -13,8 +14,9 @@ class EnglishNames {
             "Harry",
             "Oscar" ,
             "Archie" ,
-            "Henry","Olivia"
-            ,"Amelia",
+            "Henry",
+            "Olivia",
+            "Amelia",
             "Isla",
             "Ava",
             "Ivy",
@@ -22,6 +24,27 @@ class EnglishNames {
             "Lily",
             "Florence",
             "Mia",
-            "Willow"
+            "Willow",
+            "Smith",
+            "Jones",
+            "Williams",
+            "Brown",
+            "Taylor",
+            "Davies",
+            "Evans",
+            "Wilson",
+            "Thomas",
+            "Johnson",
+            "Liam",
+            "Noah",
+            "Oliver",
+            "James",
+            "Elijah",
+            "William",
+            "Henry",
+            "Lucas",
+            "Benjamin",
+            "Theodore"
     };
+    public int lenOfNameList = nameList.length;
 }
