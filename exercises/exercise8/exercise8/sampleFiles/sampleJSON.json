@@ -1,0 +1,32 @@
+{
+  "BookShelf": {
+    "Book": [
+      {
+        "numberOfPages": 400,
+        "publishedYear": 2017,
+        "title": "Java Programming",
+        "authors": [
+          "Nathan Clark"
+        ]
+      },
+      {
+        "numberOfPages": 300,
+        "publishedYear": 2021,
+        "title": "Data Structures and Algorithms",
+        "authors": [
+          "Michael T. Goodrich",
+          "Roberto Tamassia",
+          "Michael H. Goldwasser"
+        ]
+      },
+      {
+        "numberOfPages": 450,
+        "publishedYear": 2023,
+        "title": "Full Stack Web Development",
+        "authors": [
+          "Philip Ackermann"
+        ]
+      }
+    ]
+  }
+}

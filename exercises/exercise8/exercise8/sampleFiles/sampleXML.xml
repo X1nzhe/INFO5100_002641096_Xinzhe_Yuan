@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BookShelf>
+    <Book>
+        <title>Java Programming</title>
+        <publishedYear>2017</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>
+            <author>Nathan Clark</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Data Structures and Algorithms</title>
+        <publishedYear>2021</publishedYear>
+        <numberOfPages>300</numberOfPages>
+        <authors>
+            <author>Michael T. Goodrich</author>
+	    <author>Roberto Tamassia</author>
+	    <author>Michael H. Goldwasser</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Web Development with Spring</title>
+        <publishedYear>2023</publishedYear>
+        <numberOfPages>450</numberOfPages>
+        <authors>
+            <author>Philip Ackermann</author>
+        </authors>
+    </Book>
+</BookShelf>
