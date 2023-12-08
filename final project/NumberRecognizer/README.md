@@ -1,5 +1,8 @@
 Digit Recognizer with TensorFlow and JavaFX
+
 NEU INFO5100 Final Project
+
+Authors: Xinzhe Yuan https://github.com/X1nzhe, Jia Xu https://github.com/Xujia118
 
 This project demonstrates a digit recognizer implemented using TensorFlow in Python for training and exporting the model, and Java with JavaFX for creating a user interface to draw digits and receive predictions.
 
