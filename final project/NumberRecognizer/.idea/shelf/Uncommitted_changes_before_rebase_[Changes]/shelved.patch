@@ -1,0 +1,382 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ArtifactsWorkspaceSettings\">\n    <artifacts-to-build>\n      <artifact name=\"NumberRecognizer:jar\" />\n    </artifacts-to-build>\n  </component>\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5b22a2d5-fe5e-4e03-a360-18ef4f373719\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/artifacts/NumberRecognizer_jar.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/cnn/mnist_cnn_model/fingerprint.pb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/cnn/mnist_cnn_model/keras_metadata.pb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/cnn/mnist_cnn_model/saved_model.pb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/cnn/mnist_cnn_model/variables/variables.data-00000-of-00001\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/cnn/mnist_cnn_model/variables/variables.index\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/annotations-2.0.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/apiguardian-api-1.1.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/apiguardian-api-1.1.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/asynchronous_2.11-1.0.0-M5-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/asynchronous_2.11-1.0.0-M5-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/asynchronous_2.11-1.0.0-M5.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/caller_2.11-1.0.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/caller_2.11-1.0.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/caller_2.11-1.0.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-io-2.4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-io-2.4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-io-2.4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-lang3-3.3.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-lang3-3.3.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-lang3-3.3.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-math3-3.4.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-math3-3.4.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/commons-math3-3.4.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/comprehension-monad_2.11-3.3.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/comprehension-monad_2.11-3.3.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/comprehension-monad_2.11-3.3.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/constructor_2.11-1.0.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/constructor_2.11-1.0.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/constructor_2.11-1.0.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/core_2.11-3.3.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/core_2.11-3.3.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/core_2.11-3.3.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/covariant_2.11-1.0.0-M5-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/covariant_2.11-1.0.0-M5-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/covariant_2.11-1.0.0-M5.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/covariant_2.11-2.0.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/covariant_2.11-2.0.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/covariant_2.11-2.0.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-any_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-any_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-any_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-double_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-double_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-double_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-indarray_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-indarray_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/differentiable-indarray_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/each_2.11-3.3.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/each_2.11-3.3.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/each_2.11-3.3.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/extractor_2.11-2.1.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/extractor_2.11-2.1.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/extractor_2.11-2.1.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/fastring_2.11-0.3.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/fastring_2.11-0.3.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/fastring_2.11-0.3.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/guava-18.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/guava-18.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/guava-18.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/jackson-0.7.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/jackson-0.7.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/jackson-0.7.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/jai-imageio-core-1.4.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/jai-imageio-core-1.4.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/jai-imageio-core-1.4.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javacpp-1.3.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javacpp-1.3.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javacpp-1.3.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javacpp-1.5.7-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javacpp-1.5.7-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javacpp-1.5.7.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-19-ea+2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-19-ea+2-mac.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-19-ea+2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-19-ea+2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-22-ea+16-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-22-ea+16-mac.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-22-ea+16-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-base-22-ea+16.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-19-ea+2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-19-ea+2-mac.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-19-ea+2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-19-ea+2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-22-ea+16-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-22-ea+16-mac.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-22-ea+16-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-graphics-22-ea+16.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-19-ea+2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-19-ea+2-mac.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-19-ea+2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-19-ea+2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-22-ea+16-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-22-ea+16-mac.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-22-ea+16-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javafx-swing-22-ea+16.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javassist-3.19.0-GA-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javassist-3.19.0-GA-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/javassist-3.19.0-GA.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/joda-time-2.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/joda-time-2.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/joda-time-2.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/junit-jupiter-api-5.10.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/junit-jupiter-api-5.10.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/junit-jupiter-api-5.10.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/junit-platform-commons-1.10.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/junit-platform-commons-1.10.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/junit-platform-commons-1.10.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/lift_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/lift_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/lift_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/logs_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/logs_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/logs_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/lombok-1.16.10-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/lombok-1.16.10-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/lombok-1.16.10.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/math_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/math_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/math_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-api-0.7.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-api-0.7.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-api-0.7.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-buffer-0.7.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-buffer-0.7.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-buffer-0.7.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-common-0.7.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-common-0.7.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-common-0.7.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-context-0.7.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-context-0.7.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4j-context-0.7.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4s_2.11-0.7.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4s_2.11-0.7.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/nd4s_2.11-0.7.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/opentest4j-1.3.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/opentest4j-1.3.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/opentest4j-1.3.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/override_2.11-1.0.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/override_2.11-1.0.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/override_2.11-1.0.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/reflections-0.9.10-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/reflections-0.9.10-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/reflections-0.9.10.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-compiler-2.11.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-compiler-2.11.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-compiler-2.11.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-library-2.11.11-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-library-2.11.11-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-library-2.11.11.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-reflect-2.11.11-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-reflect-2.11.11-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-reflect-2.11.11.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaxy-loops_2.11-0.3.4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaxy-loops_2.11-0.3.4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaxy-loops_2.11-0.3.4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaxy-streams_2.11-0.3.4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaxy-streams_2.11-0.3.4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaxy-streams_2.11-0.3.4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-concurrent_2.11-7.2.11-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-concurrent_2.11-7.2.11-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-concurrent_2.11-7.2.11.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-core_2.11-7.2.7-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-core_2.11-7.2.7-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-core_2.11-7.2.7.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-effect_2.11-7.2.11-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-effect_2.11-7.2.11-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/scalaz-effect_2.11-7.2.11.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/shapeless_2.11-2.3.2-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/shapeless_2.11-2.3.2-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/shapeless_2.11-2.3.2.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/shared_2.11-1.0.0-M5-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/shared_2.11-1.0.0-M5-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/shared_2.11-1.0.0-M5.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/slf4j-api-1.7.10-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/slf4j-api-1.7.10-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/slf4j-api-1.7.10.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/snakeyaml-1.12-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/snakeyaml-1.12-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/snakeyaml-1.12.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/sourcecode_2.11-0.1.3-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/sourcecode_2.11-0.1.3-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/sourcecode_2.11-0.1.3.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/stax2-api-3.1.4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/stax2-api-3.1.4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/stax2-api-3.1.4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/tape_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/tape_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/tape_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/tapefactories_2.11-2.0.0-M4-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/tapefactories_2.11-2.0.0-M4-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/tapefactories_2.11-2.0.0-M4.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/untyper_2.11-1.0.0-javadoc.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/untyper_2.11-1.0.0-sources.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/lib/untyper_2.11-1.0.0.jar\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mvnw\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/mvnw.cmd\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/META-INF/MANIFEST.MF\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/Launcher.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerApplication.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerController.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerModel.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/TensorFlowModelLoader.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/module-info.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"CodeInsightWorkspaceSettings\">\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"importingSettings\">\n      <MavenImportingSettings>\n        <option name=\"downloadSourcesAutomatically\" value=\"true\" />\n      </MavenImportingSettings>\n    </option>\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 0\n}</component>\n  <component name=\"ProjectId\" id=\"2X8qsqmSBbe8a0MBYBldPDCVXP9\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\n    &quot;project.structure.side.proportion&quot;: &quot;0.30769232&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration name=\"NumberRecognizer.jar\" type=\"JarApplication\" temporary=\"true\">\n      <option name=\"JAR_PATH\" value=\"$PROJECT_DIR$/out/artifacts/NumberRecognizer_jar/NumberRecognizer.jar\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JAR Application.NumberRecognizer.jar\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SliceToolwindowSettings\">\n    <option name=\"autoScroll\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5b22a2d5-fe5e-4e03-a360-18ef4f373719\" name=\"Changes\" comment=\"\" />\n      <created>1698021263205</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1698021263205</updated>\n      <workItem from=\"1698021264222\" duration=\"15148000\" />\n      <workItem from=\"1699646219016\" duration=\"56138000\" />\n      <workItem from=\"1700161980405\" duration=\"285000\" />\n      <workItem from=\"1700163277744\" duration=\"18068000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <breakpoint enabled=\"true\" type=\"java-exception\">\n          <properties class=\"java.lang.UnsatisfiedLinkError\" package=\"java.lang\" />\n          <option name=\"timeStamp\" value=\"2\" />\n        </breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerController.java</url>\n          <option name=\"timeStamp\" value=\"3\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a73cbefad9623b9524e613fe238ed5a77d78b607)
++++ b/.idea/workspace.xml	(date 1701805398275)
+@@ -9,236 +9,15 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5b22a2d5-fe5e-4e03-a360-18ef4f373719" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/NumberRecognizer_jar.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/cnn/mnist_cnn_model/fingerprint.pb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/cnn/mnist_cnn_model/keras_metadata.pb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/cnn/mnist_cnn_model/saved_model.pb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/cnn/mnist_cnn_model/variables/variables.data-00000-of-00001" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/cnn/mnist_cnn_model/variables/variables.index" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/annotations-2.0.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/asynchronous_2.11-1.0.0-M5-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/asynchronous_2.11-1.0.0-M5-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/asynchronous_2.11-1.0.0-M5.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/caller_2.11-1.0.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/caller_2.11-1.0.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/caller_2.11-1.0.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.3.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.3.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.3.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.4.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.4.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.4.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/comprehension-monad_2.11-3.3.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/comprehension-monad_2.11-3.3.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/comprehension-monad_2.11-3.3.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/constructor_2.11-1.0.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/constructor_2.11-1.0.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/constructor_2.11-1.0.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/core_2.11-3.3.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/core_2.11-3.3.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/core_2.11-3.3.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/covariant_2.11-1.0.0-M5-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/covariant_2.11-1.0.0-M5-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/covariant_2.11-1.0.0-M5.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/covariant_2.11-2.0.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/covariant_2.11-2.0.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/covariant_2.11-2.0.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-any_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-any_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-any_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-double_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-double_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-double_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-indarray_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-indarray_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/differentiable-indarray_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/each_2.11-3.3.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/each_2.11-3.3.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/each_2.11-3.3.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/extractor_2.11-2.1.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/extractor_2.11-2.1.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/extractor_2.11-2.1.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/fastring_2.11-0.3.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/fastring_2.11-0.3.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/fastring_2.11-0.3.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/guava-18.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/guava-18.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/guava-18.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/jackson-0.7.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/jackson-0.7.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/jackson-0.7.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/jai-imageio-core-1.4.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/jai-imageio-core-1.4.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/jai-imageio-core-1.4.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javacpp-1.3.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javacpp-1.3.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javacpp-1.3.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javacpp-1.5.7-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javacpp-1.5.7-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javacpp-1.5.7.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-19-ea+2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-19-ea+2-mac.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-19-ea+2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-19-ea+2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-22-ea+16-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-22-ea+16-mac.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-22-ea+16-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-base-22-ea+16.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-19-ea+2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-19-ea+2-mac.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-19-ea+2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-19-ea+2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-22-ea+16-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-22-ea+16-mac.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-22-ea+16-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-22-ea+16.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-19-ea+2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-19-ea+2-mac.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-19-ea+2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-19-ea+2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-22-ea+16-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-22-ea+16-mac.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-22-ea+16-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javafx-swing-22-ea+16.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javassist-3.19.0-GA-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javassist-3.19.0-GA-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/javassist-3.19.0-GA.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/joda-time-2.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/joda-time-2.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/joda-time-2.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.10.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.10.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.10.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.10.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.10.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.10.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/lift_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/lift_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/lift_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/logs_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/logs_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/logs_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/lombok-1.16.10-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/lombok-1.16.10-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/lombok-1.16.10.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/macro-compat_2.11-1.1.1.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/math_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/math_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/math_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-api-0.7.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-api-0.7.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-api-0.7.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-buffer-0.7.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-buffer-0.7.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-buffer-0.7.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-common-0.7.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-common-0.7.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-common-0.7.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-context-0.7.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-context-0.7.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4j-context-0.7.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4s_2.11-0.7.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4s_2.11-0.7.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/nd4s_2.11-0.7.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.3.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.3.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.3.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/override_2.11-1.0.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/override_2.11-1.0.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/override_2.11-1.0.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/reflections-0.9.10-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/reflections-0.9.10-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/reflections-0.9.10.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-compiler-2.11.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-compiler-2.11.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-compiler-2.11.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.11-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.11-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.11.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.11.11-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.11.11-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.11.11.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaxy-loops_2.11-0.3.4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaxy-loops_2.11-0.3.4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaxy-loops_2.11-0.3.4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaxy-streams_2.11-0.3.4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaxy-streams_2.11-0.3.4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaxy-streams_2.11-0.3.4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-concurrent_2.11-7.2.11-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-concurrent_2.11-7.2.11-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-concurrent_2.11-7.2.11.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-core_2.11-7.2.7-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-core_2.11-7.2.7-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-core_2.11-7.2.7.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-effect_2.11-7.2.11-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-effect_2.11-7.2.11-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/scalaz-effect_2.11-7.2.11.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/shapeless_2.11-2.3.2-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/shapeless_2.11-2.3.2-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/shapeless_2.11-2.3.2.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/shared_2.11-1.0.0-M5-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/shared_2.11-1.0.0-M5-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/shared_2.11-1.0.0-M5.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.10-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.10-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.10.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/snakeyaml-1.12-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/snakeyaml-1.12-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/snakeyaml-1.12.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/sourcecode_2.11-0.1.3-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/sourcecode_2.11-0.1.3-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/sourcecode_2.11-0.1.3.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/stax2-api-3.1.4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/stax2-api-3.1.4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/stax2-api-3.1.4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/tape_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/tape_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/tape_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/tapefactories_2.11-2.0.0-M4-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/tapefactories_2.11-2.0.0-M4-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/tapefactories_2.11-2.0.0-M4.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/untyper_2.11-1.0.0-javadoc.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/untyper_2.11-1.0.0-sources.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/untyper_2.11-1.0.0.jar" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/Launcher.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerApplication.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerModel.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/TensorFlowModelLoader.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
++    <list default="true" id="5b22a2d5-fe5e-4e03-a360-18ef4f373719" name="Changes" comment="add NUIDs &amp; Emails. &#10;replace Class Diagram">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="ChangesViewManager" show_ignored="true" />
+   <component name="CodeInsightWorkspaceSettings">
+     <option name="optimizeImportsOnTheFly" value="true" />
+   </component>
+@@ -250,7 +29,13 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="MIXED" />
+   </component>
+   <component name="MavenImportPreferences">
+     <option name="importingSettings">
+@@ -270,30 +55,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.30769232&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ASKED_ADD_EXTERNAL_FILES": "true",
++    "Downloaded.Files.Path.Enabled": "true",
++    "Repository.Attach.Annotations": "false",
++    "Repository.Attach.JavaDocs": "true",
++    "Repository.Attach.Sources": "false",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "git-widget-placeholder": "xz",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "project.structure.last.edited": "Artifacts",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.30769232",
++    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager">
+     <configuration name="NumberRecognizer.jar" type="JarApplication" temporary="true">
+       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/NumberRecognizer_jar/NumberRecognizer.jar" />
+@@ -302,6 +87,8 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="JAR Application.NumberRecognizer.jar" />
++        <item itemvalue="JAR Application.NumberRecognizer.jar" />
++        <item itemvalue="JAR Application.NumberRecognizer.jar" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -321,13 +108,43 @@
+       <workItem from="1700161980405" duration="285000" />
+       <workItem from="1700163277744" duration="18068000" />
+     </task>
++    <task id="LOCAL-00001" summary="add NUIDs &amp; Emails. &#10;replace Class Diagram">
++      <option name="closed" value="true" />
++      <created>1701805174856</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1701805174856</updated>
++    </task>
++    <task id="LOCAL-00002" summary="add NUIDs &amp; Emails. &#10;replace Class Diagram">
++      <option name="closed" value="true" />
++      <created>1701805338551</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1701805338551</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.History.Properties">
++    <option name="COLUMN_ID_ORDER">
++      <list>
++        <option value="Default.Root" />
++        <option value="Default.Author" />
++        <option value="Default.Date" />
++        <option value="Default.Subject" />
++        <option value="Space.CommitStatus" />
++      </list>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="add NUIDs &amp; Emails. &#10;replace Class Diagram" />
++    <option name="LAST_COMMIT_MESSAGE" value="add NUIDs &amp; Emails. &#10;replace Class Diagram" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -336,10 +153,6 @@
+           <properties class="java.lang.UnsatisfiedLinkError" package="java.lang" />
+           <option name="timeStamp" value="2" />
+         </breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/com/neu/info5100/numberrecognizer/NumberRecognizerController.java</url>
+-          <option name="timeStamp" value="3" />
+-        </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+   </component>
