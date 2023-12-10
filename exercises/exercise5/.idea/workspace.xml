@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67181b8a-5035-47b5-9d6f-2d9ea63c9601" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neu/info5100/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neu/info5100/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neu/info5100/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neu/info5100/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neu/info5100/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neu/info5100/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neu/info5100/RouterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neu/info5100/RouterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neu/info5100/RouterState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neu/info5100/RouterState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neu/info5100/TerminalDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neu/info5100/TerminalDevice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZKNtIQDbnQu7q3qVvSNUTHEVcU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/xinzheyuan/Desktop/INFO5100 App Dev/INFO5100_002641096_Xinzhe_Yuan/INFO5100_002641096_Xinzhe_Yuan/exercises/exercise5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.30769232",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="exercise5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="exercise5" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67181b8a-5035-47b5-9d6f-2d9ea63c9601" name="Changes" comment="" />
+      <created>1702161880216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702161880216</updated>
+      <workItem from="1702161881486" duration="4262000" />
+      <workItem from="1702167025368" duration="13000" />
+      <workItem from="1702167040758" duration="73000" />
+      <workItem from="1702167130617" duration="118000" />
+      <workItem from="1702167273851" duration="3428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
